@@ -12,21 +12,21 @@
 | ----  | --------   | -------- | -------- |-------- |
 | 1 | K번째 수 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/K번째수.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/K번째수.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42748) |
 | 1 | 가운데 글자 가져오기 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/가운데글자가져오기.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/가운데글자가져오기.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12903) |
-| 1 | 나누어 떨어지는 숫자 배열 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/나누어떨어지는숫자배열.cpp)     | [Code]()     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12910) |
-| 1 | 내적 | [Code]()     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/내적.swift) | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/70128) |
+| 1 | 나누어 떨어지는 숫자 배열 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/나누어떨어지는숫자배열.cpp)     |      | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12910) |
+| 1 | 내적 |     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/내적.swift) | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/70128) |
 | 1 | 두 정수 사이의 합 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/두정수사이의합.cpp) | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/두정수사이의합.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12912) |
-| 1 | 모의고사 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/모의고사.cpp)     | [Code]()     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42840) |
+| 1 | 모의고사 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/모의고사.cpp)     |      | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42840) |
 | 1 | 문자열 내 p와 y의 개수 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/문자열내p와y의개수.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/문자열내p와y의개수.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12916) |
-| 1 | 문자열 내림차순으로 배치하기 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/문자열내림차순으로배치하기.cpp)     | [Code]()     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12917) |
+| 1 | 문자열 내림차순으로 배치하기 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/문자열내림차순으로배치하기.cpp)     |     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12917) |
 | 1 | 문자열 내 마음대로 정렬하기 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/문자열내마음대로정렬하기.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/문자열내마음대로정렬하기.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12915) |
 | 1 | 문자열 다루기기본 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/문자열다루기기본.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/문자열다루기기본.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12918) |
-| 1 | 문자열을 정수로 바꾸기 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/문자열을정수로바꾸기.cpp)     | [Code]()     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12925) |
-| 1 | 서울에서 김서방 찾기 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/서울에서김서방찾기.cpp)     | [Code]()     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12919) |
-| 1 | 소수찾기 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/소수찾기.cpp)     | [Code]()     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12921) |
-| 1 | 수박수박수박수박수박수? | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/수박수박수.cpp)     | [Code]()     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12922) |
-| 1 | 시저암호 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/시저암호.cpp)     | [Code]()     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12926) |
-| 1 | 체육복 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/체육복.cpp)     | [Code](https://programmers.co.kr/learn/courses/30/lessons/42862)     | [바로가기]() |
-| 1 | 크레인 인형뽑기 게임 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/크레인인형뽑기게임.cpp)     | [Code]()     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/64061) |
+| 1 | 문자열을 정수로 바꾸기 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/문자열을정수로바꾸기.cpp)     |    | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12925) |
+| 1 | 서울에서 김서방 찾기 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/서울에서김서방찾기.cpp)     |   | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12919) |
+| 1 | 소수찾기 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/소수찾기.cpp)     |     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12921) |
+| 1 | 수박수박수박수박수박수? | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/수박수박수.cpp)     |    | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12922) |
+| 1 | 시저암호 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/시저암호.cpp)     |      | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12926) |
+| 1 | 체육복 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/체육복.cpp)     |      | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42862) |
+| 1 | 크레인 인형뽑기 게임 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/크레인인형뽑기게임.cpp)     |    | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/64061) |
 
 ### LEVEL_2
 
