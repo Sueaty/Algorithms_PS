@@ -2,6 +2,12 @@
 
 ## 프로그래머스
 
+* [Level 1](https://github.com/Sueaty/Algorithms_PS#LEVEL_1)
+* [Level 2](https://github.com/Sueaty/Algorithms_PS#LEVEL_2)
+* [Level 3](https://github.com/Sueaty/Algorithms_PS#LEVEL_3)
+
+### LEVEL_1
+
 | Level | 이름        | C++      | Swift | 문제링크 |
 | ----  | --------   | -------- | -------- |-------- |
 | 1 | K번째 수 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/K번째수.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/K번째수.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42748) |
@@ -21,5 +27,13 @@
 | 1 | 시저암호 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/시저암호.cpp)     | [Code]()     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12926) |
 | 1 | 체육복 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/체육복.cpp)     | [Code](https://programmers.co.kr/learn/courses/30/lessons/42862)     | [바로가기]() |
 | 1 | 크레인 인형뽑기 게임 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/크레인인형뽑기게임.cpp)     | [Code]()     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/64061) |
+
+### LEVEL_2
+| 2 | 스킬트리 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/스킬트리.cpp) | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/스킬트리.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/49993) |
+| 2 | 프린터 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/프린터.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/프린터.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42587) |
+| 2 | 기능개발 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/프린터.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/기능개발.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42586) |
 | 2 | Text       | [Code]()     | [Code]()     | [바로가기]() |
+| 2 | Text       | [Code]()     | [Code]()     | [바로가기]() |
+
+### LEVEL_3
 | 3 | Text       | [Code]()     | [Code]()     | [바로가기]() |
