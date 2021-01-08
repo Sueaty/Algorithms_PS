@@ -29,6 +29,9 @@
 | 1 | 크레인 인형뽑기 게임 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/크레인인형뽑기게임.cpp)     | [Code]()     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/64061) |
 
 ### LEVEL_2
+
+| Level | 이름        | C++      | Swift | 문제링크 |
+| ----  | --------   | -------- | -------- |-------- |
 | 2 | 스킬트리 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/스킬트리.cpp) | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/스킬트리.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/49993) |
 | 2 | 프린터 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/프린터.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/프린터.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42587) |
 | 2 | 기능개발 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/프린터.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/기능개발.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42586) |
