@@ -39,7 +39,7 @@
 | 2 | 멀쩡한 사각형 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/멀쩡한사각형.cpp)     | C++로는 통과한 로직이 Swift에서 통과를 못한다는 것은... | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/62048) |
 | 2 | 삼각달팽이 |    | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/삼각달팽이.swift) | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/68645) |
 | 2 | 가장 큰 수 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/가장큰수.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/가장큰수.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42746) |
-| 2 | Text       | [Code]()     | [Code]()     | [바로가기]() |
+| 2 | 위장 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/위장.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/위장.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42578) |
 
 ### LEVEL_3
 
