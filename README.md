@@ -10,6 +10,8 @@
 
 | Level | 이름        | C++      | Swift | 문제링크 |
 | ----  | --------   | -------- | -------- |-------- |
+| 1 | 크레인 인형뽑기 게임 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/크레인인형뽑기게임.cpp)     |    | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/64061) |
+| 1 | 키패드누르기 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/키패드누르기.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/키패드누르기.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/67256) |
 | 1 | K번째 수 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/K번째수.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/K번째수.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42748) |
 | 1 | 가운데 글자 가져오기 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/가운데글자가져오기.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/가운데글자가져오기.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12903) |
 | 1 | 나누어 떨어지는 숫자 배열 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/나누어떨어지는숫자배열.cpp)     |      | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12910) |
@@ -26,7 +28,7 @@
 | 1 | 수박수박수박수박수박수? | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/수박수박수.cpp)     |    | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12922) |
 | 1 | 시저암호 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/시저암호.cpp)     |      | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12926) |
 | 1 | 체육복 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/체육복.cpp)     |      | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42862) |
-| 1 | 크레인 인형뽑기 게임 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/크레인인형뽑기게임.cpp)     |    | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/64061) |
+| 1 | Text       | [Code]()     | [Code]()     | [바로가기]() |
 
 ### LEVEL_2
 
