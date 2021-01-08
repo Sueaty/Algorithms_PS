@@ -35,7 +35,7 @@
 | 2 | 스킬트리 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/스킬트리.cpp) | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/스킬트리.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/49993) |
 | 2 | 프린터 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/프린터.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/프린터.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42587) |
 | 2 | 기능개발 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/프린터.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/기능개발.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42586) |
-| 2 | Text       | [Code]()     | [Code]()     | [바로가기]() |
+| 2 | 다리를 지나는 트럭 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/다리를지나는트럭.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/다리를지나는트럭.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42583) |
 | 2 | Text       | [Code]()     | [Code]()     | [바로가기]() |
 
 ### LEVEL_3
