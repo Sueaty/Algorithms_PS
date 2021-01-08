@@ -45,6 +45,7 @@
 | 2 | 카펫 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/카펫.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/카펫.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42842) |
 | 2 | 짝지어 제거하기 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/짝지어제거하기.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/짝지어제거하기.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12973) |
 | 2 | 예상 대진표 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/예상대진표.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/예상대진표.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12985) |
+| 2 | 수식 최대화 |   | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/수식최대화.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/67257) |
 | 2 | Text       | [Code]()     | [Code]()     | [바로가기]() |
 
 ### LEVEL_3
