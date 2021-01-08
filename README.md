@@ -41,7 +41,8 @@
 | 2 | 가장 큰 수 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/가장큰수.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/가장큰수.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42746) |
 | 2 | 위장 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/위장.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/위장.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42578) |
 | 2 | 카펫 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/카펫.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/카펫.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42842) |
-| 2 | Text       | [Code]()     | [Code]()     | [바로가기]() |
+| 2 | 짝지어 제거하기 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/짝지어제거하기.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/짝지어제거하기.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12973) |
+| 2 | 예상 대진표 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/예상대진표.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/예상대진표.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12985) |
 | 2 | Text       | [Code]()     | [Code]()     | [바로가기]() |
 
 ### LEVEL_3
