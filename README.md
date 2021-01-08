@@ -36,6 +36,7 @@
 | 2 | 프린터 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/프린터.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/프린터.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42587) |
 | 2 | 기능개발 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/프린터.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/기능개발.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42586) |
 | 2 | 다리를 지나는 트럭 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/다리를지나는트럭.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/다리를지나는트럭.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42583) |
+| 2 | 멀쩡한 사각형 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/멀쩡한사각형.cpp)     | C++로는 통과한 로직이 Swift에서 통과를 못한다는 것은... | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/62048) |
 | 2 | Text       | [Code]()     | [Code]()     | [바로가기]() |
 
 ### LEVEL_3
