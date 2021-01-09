@@ -34,7 +34,7 @@
 
 | Level | 이름        | C++      | Swift | 문제링크 |
 | ----  | --------   | -------- | -------- |-------- |
-| 2 | 튜플 | [Code]()     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/튜플.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/64065) |
+| 2 | 튜플 |      | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/튜플.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/64065) |
 | 2 | 스킬트리 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/스킬트리.cpp) | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/스킬트리.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/49993) |
 | 2 | 프린터 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/프린터.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/프린터.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42587) |
 | 2 | 기능개발 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/프린터.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/기능개발.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42586) |
