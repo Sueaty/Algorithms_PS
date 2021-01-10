@@ -54,4 +54,5 @@
 
 | Level | 이름        | C++      | Swift | 문제링크 |
 | ----  | --------   | -------- | -------- |-------- |
+| 3 | 섬 연결하기  |   | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/섬연결하기.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42861) |
 | 3 | Text       | [Code]()     | [Code]()     | [바로가기]() |
