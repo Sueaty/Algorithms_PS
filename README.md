@@ -15,7 +15,7 @@
 | 1 | K번째 수 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/K번째수.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/K번째수.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42748) |
 | 1 | 가운데 글자 가져오기 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/가운데글자가져오기.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/가운데글자가져오기.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12903) |
 | 1 | 나누어 떨어지는 숫자 배열 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/나누어떨어지는숫자배열.cpp)     |      | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12910) |
-| 1 | 내적 |     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/내적.swift) | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/70128) |
+| 1 | 내적 |    | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/내적.swift) | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/70128) |
 | 1 | 두 정수 사이의 합 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/두정수사이의합.cpp) | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/두정수사이의합.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12912) |
 | 1 | 모의고사 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/모의고사.cpp)     |      | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/42840) |
 | 1 | 문자열 내 p와 y의 개수 | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/문자열내p와y의개수.cpp)     | [Code](https://github.com/Sueaty/Algorithms_PS/blob/master/Programmers/문자열내p와y의개수.swift)     | [바로가기](https://programmers.co.kr/learn/courses/30/lessons/12916) |
